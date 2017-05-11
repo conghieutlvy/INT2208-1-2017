@@ -10,7 +10,7 @@
  	+ Nhóm thiết kế một trang web cho phép người dùng ôn thi lái xe online.
  	+ Người dùng sẽ được ôn thi online bằng cách làm bộ đề hoặc các câu hỏi ngẫu nhiên(có thư viện câu hỏi với đáp án).
  	+ Người dùng được ôn thêm về các biển báo, 1 số mẹo khi thi và các dạng bài thi thực tế.  
-- Sơ đồ ca sử dụng: ![](https://raw.githubusercontent.com/conghieutlvy/INT2208-1-2017/master/Nhom-HAI/usscase.jpg)  
+- Sơ đồ ca sử dụng: ![](https://github.com/conghieutlvy/INT2208-1-2017/blob/master/Nhom-HAI/usecase.jpg)  
 
 - Ảnh các ca sử dụng:
 	+ Trang chủ:![](http://i.imgur.com/ndCcQix.png)
